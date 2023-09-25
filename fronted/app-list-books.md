@@ -1,5 +1,7 @@
 # 01 - Desarrollo de una Aplicación de Lista de Libros
-[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
+
+
+> Basado en el repo de [midudev/pruebas-tecnicas](https://github.com/midudev/pruebas-tecnicas#c%C3%B3mo-participar)
 
 El objetivo de esta prueba es diseñar e implementar una pequeña aplicación web de lista de libros utilizando las herramientas de tu elección.
 
